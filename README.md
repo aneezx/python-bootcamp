@@ -1,4 +1,3 @@
-# python-bootcamp
 # 🐍 Python Bootcamp
 
 Welcome to the **Python Bootcamp** repository — a comprehensive resource for learning Python programming from scratch to advanced topics.
